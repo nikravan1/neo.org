@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using NeoWeb.Models;
-
+//this is my test nikravan
 namespace NeoWeb.Data
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
